@@ -1,9 +1,7 @@
-Última atualização: 20 de Agosto de 2024
+Última atualização: 22 de Agosto de 2024
 
 A Drimo Sports Club se preocupa com sua privacidade. Este documento de política de privacidade tem como objetivo esclarecer como ele é utilizado em nosso aplicativo móvel.
-Este produto destina-se a brasileiros
-
-
+Este produto destina-se a brasileiros.
 
 1. DADOS PESSOAIS QUE COLETAMOS.
 
@@ -11,14 +9,8 @@ Este produto destina-se a brasileiros
 
 1.1.1 Informações de contato, conta e perfil. Como nome, sobrenome, número de telefone, endereço postal, endereço de email, data de nascimento e CPF dos quais alguns dependerão dos recursos que você usa.
 
-
-
-
-
-
-
-2. COMO USAMOS AS INFORMAÇÕES QUE COLETAMOS. Usamos dados pessoais conforme descrito nesta Política de Privacidade.
-
+2. COMO USAMOS AS INFORMAÇÕES QUE COLETAMOS.
+  Usamos dados pessoais conforme descrito nesta Política de Privacidade.
 
 2.1 Fornecer, aprimorar e desenvolver a Plataforma Drimo Sports Club. Podemos tratar essas informações para:
 
@@ -38,11 +30,14 @@ permitir o seu uso de nossos serviços de reservas de quadras esportivas.
 
 4.1 Termos de serviço de terceiros. Partes da Drimo Sports Club podem estar vinculadas a serviços de terceiros. A Drimo Sports Club não é proprietário nem controla esses terceiros. Quando você interage com esses terceiros e escolhe usar o serviço deles, você está fornecendo suas informações a eles. O uso desses serviços está sujeito às políticas de privacidade desses fornecedores, como  a Politica de Privacidade e Segurança do Amazon Cognito e do Mercado Pago.
 
-5. SEUS DIREITOS. Você pode exercer qualquer um dos direitos descritos nesta seção de acordo com a legislação aplicável. Clique aqui para saber mais sobre solicitações de direitos do titular de dados e sobre como enviar uma solicitação. Podemos pedir que você confirme sua identidade e sua solicitação antes de tomar qualquer providência em relação a ela.
+4.2 Dados de pagamento
+Ao fazer a reserva de quadras esportivas na plata forma Drimo Sport Clubo é possível pagamentos pela integração check out pro oferecida pelo Mercado Pago atraves de um navegador aberto dentro do Aplicativo.
+Ao escolher fazer o pagamento direto no nosso  Aplicativo, você poderá nos fornecer os seus dados de pagamento, tais como aqueles de cartão de crédito e de meios de pagamento parceiros.
+Atenção: suas informações de pagamento online são armazenadas somente de forma anonimizada pelo Mercado Pago, de modo que não temos acesso aos seus dados financeiros completos.
 
-5.1 Residentes da UE e do Brasil. Saiba mais sobre os direitos previstos no Regulamento Geral sobre a Proteção de Dados (“GDPR”) e na Lei Geral de Proteção de Dados Pessoais do Brasil (“LGPD”).
+5. SEUS DIREITOS. Você pode exercer qualquer um dos direitos descritos nesta seção de acordo com a legislação aplicável. Nos envie uma mensagem no numero listado no ultimo item para saber mais sobre solicitações de direitos do titular de dados e sobre como enviar uma solicitação. Podemos pedir que você confirme sua identidade e sua solicitação antes de tomar qualquer providência em relação a ela.
 
-
+5.1 Saiba mais sobre os direitos previstos na Lei Geral de Proteção de Dados Pessoais do Brasil (“LGPD”).
 
 6. SEGURANÇA. Embora nenhuma organização possa garantir uma segurança perfeita, nós implementamos e atualizamos continuamente medidas de segurança administrativa, técnica e física para auxiliar na proteção de suas informações contra acesso, perda, destruição ou alteração ilegal ou não autorizada.
 
